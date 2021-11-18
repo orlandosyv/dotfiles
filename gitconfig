@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sergioyv@gmail.com
+	name = Orlando Yurivilca
